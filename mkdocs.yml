@@ -1,8 +1,8 @@
 site_name: KI-utvikling i SSB
 site_description: Regler, veiledning og felles verktøy for bruk av KI i utvikling og statistikkproduksjon i SSB. Skisse fra KI-gruppen i avdeling 700.
-# site_url: https://thomasbjornskau.github.io/ssb-ki-utvikling/
-# repo_url: https://github.com/thomasbjornskau/ssb-ki-utvikling
-# repo_name: ssb-ki-utvikling
+site_url: https://thomasbjornskau.github.io/ssb-ki-utvikling/
+repo_url: https://github.com/thomasbjornskau/ssb-ki-utvikling
+repo_name: ssb-ki-utvikling
 use_directory_urls: false
 
 theme:
