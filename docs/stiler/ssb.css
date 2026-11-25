@@ -1,0 +1,96 @@
+/* Farger fra SSBs konseptfigurer */
+:root,
+[data-md-color-scheme="default"] {
+  --md-primary-fg-color: #274247;
+  --md-primary-fg-color--light: #5e787a;
+  --md-primary-fg-color--dark: #1e3a3f;
+  --md-accent-fg-color: #00824d;
+  --md-typeset-a-color: #00824d;
+}
+[data-md-color-scheme="slate"] {
+  --md-primary-fg-color: #274247;
+  --md-accent-fg-color: #b6e8b8;
+  --md-typeset-a-color: #b6e8b8;
+}
+
+.md-grid { max-width: 1440px; }
+
+.md-typeset h1, .md-typeset h2, .md-typeset h3 {
+  font-family: "Roboto Condensed", "Roboto", Arial, sans-serif;
+  font-weight: 700;
+  color: var(--md-default-fg-color);
+}
+
+/* Brødtekst i lesbar bredde, figurer og tabeller i full bredde */
+.md-typeset > p,
+.md-typeset > ul,
+.md-typeset > ol,
+.md-typeset > h1,
+.md-typeset > h2,
+.md-typeset > h3,
+.md-typeset > blockquote,
+.md-typeset > .admonition,
+.md-typeset > details {
+  max-width: 46rem;
+}
+
+.md-typeset .ingress {
+  font-size: 1.12em;
+  line-height: 1.6;
+  color: var(--md-default-fg-color--light);
+}
+
+/* Figurer */
+.md-typeset figure.figur {
+  margin: 1.6em 0 2em;
+  max-width: 100%;
+}
+.md-typeset figure.figur img {
+  background: #ffffff;
+  border: 1px solid #cdd3d4;
+  width: 100%;
+  height: auto;
+}
+.md-typeset figure.figur figcaption {
+  font-size: 0.78rem;
+  max-width: none;
+  text-align: left;
+  color: var(--md-default-fg-color--light);
+}
+
+/* Statusmerker */
+.md-typeset .status {
+  display: inline-block;
+  font-size: 0.7rem;
+  font-weight: 700;
+  padding: 0.05em 0.6em;
+  border-radius: 1em;
+  border: 1px solid;
+  vertical-align: middle;
+}
+.md-typeset .status.forslag { color: #4b2fb0; border-color: #7e5ee8; border-style: dashed; background: #f2f0ff; }
+.md-typeset .status.avklares { color: #5e787a; border-color: #b9c5c6; border-style: dashed; background: #f3f5f5; }
+.md-typeset .status.finnes { color: #00824d; border-color: #00824d; background: #ecfeed; }
+
+/* Inngangskort på forsiden */
+.md-typeset .kort {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(15rem, 1fr));
+  gap: 1rem;
+  margin: 1.5em 0;
+}
+.md-typeset .kort > div {
+  border: 1px solid #cdd3d4;
+  border-top: 5px solid #00824d;
+  padding: 0.8rem 1rem 0.4rem;
+  border-radius: 2px;
+}
+.md-typeset .kort > div p:first-child { margin-top: 0; font-weight: 700; }
+
+/* Tabeller */
+.md-typeset table:not([class]) { font-size: 0.74rem; }
+.md-typeset td.ja { color: #00824d; font-weight: 700; }
+
+@media print {
+  .md-header, .md-sidebar, .md-footer, .md-top { display: none !important; }
+}
