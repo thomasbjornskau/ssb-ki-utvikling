@@ -1,32 +1,36 @@
-# Om KI-gruppen
+# Om
 
-<p class="ingress">KI-gruppen i avdeling 700 skal koordinere og følge opp KI-tiltakene i IT-avdelingen. Vi lager ikke alt selv. Vi sørger for at det som lages henger sammen, og at det er lett å finne.</p>
+<span class="status nytt">Nytt</span> Forslag til en om-side i ki-praksis.
+
+<p class="ingress">ki-praksis driftes av teamet ki-plattform. Reglene eies av dem som eier ADR-ene. Forslaget er at KI-gruppen i avdeling 700 eier strukturen: at det henger sammen, er lett å finne og holdes oppdatert.</p>
 
 <figure class="figur" id="figur-6" markdown="span">
   [![Hva gruppen koordinerer. Gruppen i midten, med forbindelser til de som eier regler, opplæring, plattform og statistikk](../figurer/6-gruppen.svg){ loading=lazy }](../figurer/6-gruppen.svg)
   <figcaption>Figur 6. Hva gruppen koordinerer · <a href="../figurer/6-gruppen.svg" download>Last ned SVG</a></figcaption>
 </figure>
 
-## Hva vi gjør
+## Hva KI-gruppen gjør
 
-- **Holder retningslinjene oppdatert**, i samarbeid med sikkerhet, personvernombud og jurister som eier dem.
-- **Kuraterer katalogen** over felles instruksjoner, skills og MCP-servere.
-- **Samler innsikt** om bruk og erfaringer, og skriver den månedlige oppsummeringen.
+- **Holder portalen samlet.** ki-praksis er stedet for KI i utvikling. Gruppen passer på at det ikke oppstår parallelle sider.
+- **Følger opp reglene** sammen med dem som eier ADR-ene og retningslinjene i github-copilot.
 - **Svarer på spørsmål**, eller finner den som kan svare.
-- **Kobler sammen** arbeidet med opplæring, kartleggingen etter KI-forordningen og plattformarbeidet i Dapla.
+- **Kobler sammen** portalen, Copilot-kursene, kartleggingen etter KI-forordningen og plattformarbeidet i Dapla.
 
-## Hva vi ikke gjør
+## Slik bidrar du
 
-Vi godkjenner ikke enkeltprosjekter og bestemmer ikke hvilke verktøy SSB kjøper. Det ligger der det ligger i dag. Vi gjør det enklere å vite hvor.
+Alt innhold ligger i repoet [statisticsnorway/ki-praksis](https://github.com/statisticsnorway/ki-praksis). En guide er én fil. Har du rettelser eller forslag:
 
-## Medlemmer
+1. **Uten GitHub:** si fra til KI-gruppen. Vi legger det inn. <span class="status avklares">Avklares: kanal</span>
+2. **Med GitHub:** lag en pull request. Hver regel skal vise til en kilde, en ADR eller retningslinjene i github-copilot. Innhold uten kilde merkes som forslag.
 
-<span class="status avklares">Avklares</span>
+Felles tilpasninger, som instruksjonsfiler og skills, hører hjemme i [statisticsnorway/github-copilot](https://github.com/statisticsnorway/github-copilot).
 
-## Kontakt
+## Ressurser
 
-<span class="status avklares">Avklares: kanal i Teams, e-post eller issues i dette repoet</span>
+[ressurser](https://ki-praksis.intern.ssb.no/praksis/ressurser) <span class="status kp">Fra ki-praksis</span> Lenker, kanaler og fellesskap. Foreslått flyttet hit fra guidebiblioteket, fordi det ikke er en guide.
 
-## Om nettstedet
+## Om dette forslaget
 
-Nettstedet er bygget med MkDocs og ligger i et åpent repo. Alle kan foreslå endringer. Strukturen er inspirert av [ki-utvikling.nav.no](https://ki-utvikling.nav.no/).
+Dette nettstedet er versjon 2 av ssb-ki-utvikling, et verksted for strukturen i ki-praksis. Det er bygget med MkDocs og publisert på GitHub Pages. Når forslaget er behandlet, flyttes det som vedtas inn i ki-praksis, og dette nettstedet arkiveres. Se [Om forslaget](../forslag/index.md).
+
+Strukturen er inspirert av [ki-utvikling.nav.no](https://ki-utvikling.nav.no/).

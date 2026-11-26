@@ -1,8 +1,8 @@
-site_name: KI-utvikling i SSB
-site_description: Regler, veiledning og felles verktøy for bruk av KI i utvikling og statistikkproduksjon i SSB. Skisse fra KI-gruppen i avdeling 700.
-site_url: https://thomasbjornskau.github.io/ssb-ki-utvikling/
-repo_url: https://github.com/thomasbjornskau/ssb-ki-utvikling
-repo_name: ssb-ki-utvikling
+site_name: KI-utvikling i SSB · forslag v2.1
+site_description: Versjon 2. Forslag til samlet struktur for ki-praksis og ssb-ki-utvikling. Skisse fra KI-gruppen i avdeling 700.
+# site_url: https://thomasbjornskau.github.io/ssb-ki-utvikling/
+# repo_url: https://github.com/thomasbjornskau/ssb-ki-utvikling
+# repo_name: ssb-ki-utvikling
 use_directory_urls: false
 
 theme:
@@ -52,29 +52,30 @@ markdown_extensions:
 
 nav:
   - Forside: index.md
-  - Retningslinjer:
-      - retningslinjer/index.md
-      - Hva er lov, og hva er ikke lov: retningslinjer/tillatt.md
-      - Data og taushetsplikt: retningslinjer/data.md
-      - Ansvar: retningslinjer/ansvar.md
-      - Agenter og isolasjon: retningslinjer/agenter.md
-      - Endringslogg: retningslinjer/endringslogg.md
+  - Om forslaget:
+      - forslag/index.md
+      - Samlet struktur: forslag/struktur.md
+      - Endringer i ki-praksis: forslag/endringer.md
+  - Regler:
+      - regler/index.md
+      - Verktøy og datanivå: regler/verktoy.md
+      - Data og taushetsplikt: regler/data.md
+      - Endringslogg: regler/endringslogg.md
   - Kom i gang:
       - kom-i-gang/index.md
-      - For utviklere: kom-i-gang/utvikler.md
-      - For statistikere som koder: kom-i-gang/statistiker.md
-      - Gode instruksjoner: kom-i-gang/instruksjoner.md
-      - Kontroll før bruk: kom-i-gang/kontroll.md
+  - Tilpasning:
+      - tilpasning/index.md
+      - Filer agentene leser: tilpasning/filer.md
+  - Praksis:
+      - praksis/index.md
   - Bevisst bruk:
       - bevisst-bruk/index.md
       - Grønn og rød sone: bevisst-bruk/soner.md
       - KI-kompetanse: bevisst-bruk/kompetanse.md
-  - Felles verktøy:
-      - katalog/index.md
-      - Instruksjoner og skills: katalog/tilpasninger.md
-      - MCP-servere: katalog/mcp.md
-      - Slik bidrar du: katalog/bidra.md
-  - Innsikt:
+  - For statistikere:
+      - statistikere/index.md
+      - Utkast til inngang: statistikere/utkast.md
+  - Nytt og innsikt:
       - innsikt/index.md
       - Hva vi måler: innsikt/maling.md
       - Nyheter: innsikt/nyheter.md

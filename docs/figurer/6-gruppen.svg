@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1920" height="1080" viewBox="0 0 1920 1080">
 <rect x="0" y="0" width="1920" height="1080" fill="#ffffff"/>
 <text x="60" y="92" font-family="Roboto Condensed, Arial Narrow, Arial, sans-serif" font-size="46" font-weight="700" fill="#274247" text-anchor="start">Hva gruppen koordinerer</text>
-<text x="60" y="136" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="24" font-weight="400" fill="#5e787a" text-anchor="start">KI-gruppen eier ikke reglene, kursene eller plattformen, men holder dem sammen</text>
+<text x="60" y="136" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="24" font-weight="400" fill="#5e787a" text-anchor="start">KI-gruppen eier ikke reglene, kursene eller driften, men holder ki-praksis samlet</text>
 <rect x="1760.6" y="64" width="99.39999999999999" height="34" rx="17" fill="#f2f0ff" stroke="#7e5ee8" stroke-width="1" stroke-dasharray="8 6"/>
 <text x="1810.3" y="87" font-family="Roboto, Arial, sans-serif" font-size="17" font-weight="700" fill="#4b2fb0" text-anchor="middle">FORSLAG</text>
 <rect x="1641.0" y="64" width="109.6" height="34" rx="17" fill="#ffffff" stroke="#274247" stroke-width="1"/>
@@ -28,8 +28,9 @@
 <circle cx="1484" cy="589" r="17" fill="#274247"/>
 <text x="1484" y="595" font-family="Roboto, Arial, sans-serif" font-size="17" font-weight="700" fill="#ffffff" text-anchor="middle">4</text>
 <text x="1514" y="596" font-family="Roboto, Arial, sans-serif" font-size="20" font-weight="700" fill="#274247" text-anchor="start">Uavklart</text>
-<text x="1514" y="624" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="400" fill="#274247" text-anchor="start">Medlemmer, mandat og kanal</text>
-<text x="1514" y="648" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="400" fill="#274247" text-anchor="start">for kontakt må på plass.</text>
+<text x="1514" y="624" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="400" fill="#274247" text-anchor="start">Hvem eier strukturen og</text>
+<text x="1514" y="648" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="400" fill="#274247" text-anchor="start">områdetekstene? Kanal for</text>
+<text x="1514" y="672" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="400" fill="#274247" text-anchor="start">kontakt må på plass.</text>
 <rect x="60" y="1027" width="26" height="22" rx="2" fill="#f2f0ff" stroke="#7e5ee8" stroke-width="1"/>
 <text x="96" y="1046" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="15" font-weight="400" fill="#274247" text-anchor="start">Gruppe og eiere</text>
 <rect x="256.0" y="1027" width="26" height="22" rx="2" fill="#f0f8f9" stroke="#274247" stroke-width="1"/>
@@ -42,16 +43,16 @@
 <polyline points="684.0,1039.0 706.0,1039.0" fill="none" stroke="#5e787a" stroke-width="2" stroke-linejoin="round" stroke-dasharray="6 5"/>
 <polygon points="718.0,1039.0 702.0,1046.5 702.0,1031.5" fill="#5e787a"/>
 <text x="727.9999999999999" y="1046" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="15" font-weight="400" fill="#274247" text-anchor="start">Innspill</text>
-<text x="1860" y="1046" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="15" font-weight="400" fill="#5e787a" text-anchor="end">25.11.2026 · Skisse til diskusjon · KI-gruppen, avdeling 700</text>
+<text x="1860" y="1046" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="15" font-weight="400" fill="#5e787a" text-anchor="end">26.11.2026 · Versjon 2.1, skisse til diskusjon · KI-gruppen, avdeling 700</text>
 <rect x="540" y="495" width="380" height="170" rx="2" fill="#f2f0ff" stroke="#7e5ee8" stroke-width="2"/>
 <rect x="540" y="495" width="380" height="5" rx="0" fill="#7e5ee8" stroke="none" stroke-width="0"/>
 <text x="730" y="558" font-family="Roboto, Arial, sans-serif" font-size="26" font-weight="700" fill="#4b2fb0" text-anchor="middle">KI-gruppen</text>
 <text x="730" y="592" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="400" fill="#274247" text-anchor="middle">avdeling 700</text>
-<text x="730" y="624" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#5e787a" text-anchor="middle">nettstedet · katalog · innsikt</text>
-<rect x="95.0" y="195.0" width="330" height="150" rx="2" fill="#ffffff" stroke="#b9c5c6" stroke-width="1" stroke-dasharray="6 5"/>
-<text x="113.0" y="232.75" font-family="Roboto, Arial, sans-serif" font-size="21" font-weight="700" fill="#5e787a" text-anchor="start">Retningslinjer</text>
-<text x="113.0" y="259.95" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#5e787a" text-anchor="start">eies av sikkerhet,</text>
-<text x="113.0" y="281.95" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#5e787a" text-anchor="start">personvernombud, jus</text>
+<text x="730" y="624" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#5e787a" text-anchor="middle">struktur i ki-praksis</text>
+<rect x="95.0" y="195.0" width="330" height="150" rx="2" fill="#f0f8f9" stroke="#274247" stroke-width="1"/>
+<text x="113.0" y="232.75" font-family="Roboto, Arial, sans-serif" font-size="21" font-weight="700" fill="#274247" text-anchor="start">Regler</text>
+<text x="113.0" y="259.95" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#274247" text-anchor="start">ADR0035, ADR0038,</text>
+<text x="113.0" y="281.95" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#274247" text-anchor="start">github-copilot</text>
 <polyline points="580.0,495.0 270.9,354.0" fill="none" stroke="#274247" stroke-width="2" stroke-linejoin="round"/>
 <polygon points="260.0,349.0 277.7,348.8 271.4,362.5" fill="#274247"/>
 <rect x="565.0" y="175.0" width="330" height="150" rx="2" fill="#f0f8f9" stroke="#274247" stroke-width="1"/>
@@ -66,10 +67,10 @@
 <text x="1053.0" y="281.95" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#274247" text-anchor="start">risikoklassifisering</text>
 <polyline points="880.0,495.0 1189.1,354.0" fill="none" stroke="#274247" stroke-width="2" stroke-linejoin="round"/>
 <polygon points="1200.0,349.0 1188.6,362.5 1182.3,348.8" fill="#274247"/>
-<rect x="95.0" y="815.0" width="330" height="150" rx="2" fill="#ffffff" stroke="#b9c5c6" stroke-width="1" stroke-dasharray="6 5"/>
-<text x="113.0" y="852.75" font-family="Roboto, Arial, sans-serif" font-size="21" font-weight="700" fill="#5e787a" text-anchor="start">Plattform</text>
-<text x="113.0" y="879.95" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#5e787a" text-anchor="start">Dapla-teamet,</text>
-<text x="113.0" y="901.95" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#5e787a" text-anchor="start">KI-funksjoner i Dapla Lab</text>
+<rect x="95.0" y="815.0" width="330" height="150" rx="2" fill="#f0f8f9" stroke="#274247" stroke-width="1"/>
+<text x="113.0" y="852.75" font-family="Roboto, Arial, sans-serif" font-size="21" font-weight="700" fill="#274247" text-anchor="start">Drift og plattform</text>
+<text x="113.0" y="879.95" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#274247" text-anchor="start">ki-plattform drifter portalen,</text>
+<text x="113.0" y="901.95" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#274247" text-anchor="start">Dapla for statistikersporet</text>
 <polyline points="580.0,665.0 270.9,806.0" fill="none" stroke="#274247" stroke-width="2" stroke-linejoin="round"/>
 <polygon points="260.0,811.0 271.4,797.5 277.7,811.2" fill="#274247"/>
 <rect x="565.0" y="835.0" width="330" height="150" rx="2" fill="#f2f0ff" stroke="#7e5ee8" stroke-width="1"/>

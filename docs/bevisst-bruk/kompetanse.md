@@ -15,11 +15,11 @@ Det betyr ikke at alle skal bli eksperter. Det betyr at alle skal vite nok til �
 | Copilot-kurs for ansatte | Innføring i bruk, med bolkene «ansvarlig bruk» og «riktig bruk» | <span class="status finnes">Pågår</span> |
 | Kartlegging av KI-anvendelser | Oversikt over KI-bruk i SSB, med risikoklassifisering etter KI-forordningen | <span class="status finnes">Pågår</span> |
 | KI for ledere | Opplæring som ser på KI-bruk i samspill og ledelse | <span class="status forslag">Planlagt</span> |
-| Dette nettstedet | Felles regler og veiledning for KI i utvikling | <span class="status forslag">Skisse</span> |
+| ki-praksis | Regler og guider for KI-kodeverktøy | <span class="status finnes">Finnes</span> |
 
 ## Hvordan nettstedet henger sammen med opplæringen
 
-Kursene gir en start. Nettstedet er det du går tilbake til etterpå, når du lurer på noe konkret. Målet er at det du lærer på kurset og det som står her, sier det samme, med de samme ordene. Kursbolken «ansvarlig bruk» svarer til [Retningslinjer](../retningslinjer/index.md), og «riktig bruk» svarer til [Kom i gang](../kom-i-gang/index.md) og [Grønn og rød sone](soner.md).
+Kursene gir en start. Nettstedet er det du går tilbake til etterpå, når du lurer på noe konkret. Målet er at det du lærer på kurset og det som står her, sier det samme, med de samme ordene. Kursbolken «ansvarlig bruk» svarer til [Regler](../regler/index.md), og «riktig bruk» svarer til [Kom i gang](../kom-i-gang/index.md) og [Grønn og rød sone](soner.md).
 
 ## Minimum for alle som bruker KI i utvikling
 

@@ -1,23 +1,29 @@
 # Kom i gang
 
-<p class="ingress">I SSB skriver to grupper kode hver dag: utviklere som bygger plattformer og tjenester, og statistikere som bygger produksjonsløpene for statistikken sin. De trenger ulike startpunkter, men de ender i samme vane.</p>
+<p class="ingress">Fra lisens til første nyttige svar. Her setter du opp verktøyet, velger modell og lærer hva det koster. Er du ny, begynn med kom-i-gang-guiden og følg stegene i rekkefølge.</p>
 
 <figure class="figur" id="figur-2" markdown="span">
-  [![To innganger, ett felles grunnlag. Utviklere og statistikere starter ulikt, men kontrollerer på samme måte](../figurer/2-kom-i-gang.svg){ loading=lazy }](../figurer/2-kom-i-gang.svg)
+  [![To innganger, ett felles grunnlag. Utviklere starter med guidene i ki-praksis, statistikersporet venter](../figurer/2-kom-i-gang.svg){ loading=lazy }](../figurer/2-kom-i-gang.svg)
   <figcaption>Figur 2. To innganger, ett felles grunnlag · <a href="../figurer/2-kom-i-gang.svg" download>Last ned SVG</a></figcaption>
 </figure>
 
-## Velg inngang
+## Innhold i området
 
-**[For utviklere](utvikler.md).** Du jobber i avdeling 700 eller i et team som lager plattformer, tjenester og felleskomponenter. Du kjenner Git og pull requests. Det nye for deg er agentene: hva de kan, hvordan du gir dem kontekst, og hvor grensene går.
+| Guide | Merke | Hva du finner |
+|---|---|---|
+| [kom-i-gang](https://ki-praksis.intern.ssb.no/praksis/kom-i-gang) | <span class="status kp">Fra ki-praksis</span> | Fra tilgang til første oppgave |
+| [oppsett-vs-code](https://ki-praksis.intern.ssb.no/praksis/oppsett-vs-code) | <span class="status kp">Fra ki-praksis</span> | Copilot Chat og agentmodus i VS Code |
+| [oppsett-opencode](https://ki-praksis.intern.ssb.no/praksis/oppsett-opencode) | <span class="status kp">Fra ki-praksis</span> | Agent i terminalen |
+| [andre-klienter](https://ki-praksis.intern.ssb.no/praksis/andre-klienter) | <span class="status kp">Fra ki-praksis</span> | Zed, GitHub.com, og verktøy som er til avklaring |
+| [velg-modell](https://ki-praksis.intern.ssb.no/praksis/velg-modell) | <span class="status kp">Fra ki-praksis</span> | Hvilken modell til hvilken oppgave |
+| [spar-kostnader](https://ki-praksis.intern.ssb.no/praksis/spar-kostnader) | <span class="status kp">Fra ki-praksis</span> | Hva bruken koster, og hvordan holde den nede |
 
-**[For statistikere som koder](statistiker.md).** Du skriver Python eller R i Dapla Lab for å produsere en statistikk. Koden din er viktig, men den er ikke det du er ekspert på. Her er KI kanskje mest nyttig, og her er også risikoen størst for at data havner der de ikke skal.
+## To innganger
 
-## Det begge trenger
+I dag er kom i gang skrevet for utviklere. Det er riktig, fordi ADR0038 gjelder applikasjonsutvikling. Statistikere som koder i Dapla, får sin egen inngang når statistikersporet starter. Se [For statistikere](../statistikere/index.md).
 
-To sider gjelder alle, uansett inngang:
+<span class="status endres">Endres</span> Forslaget er at området sier dette tydelig øverst, så en statistiker ikke følger utviklerstegene og tror de gjelder i Dapla Lab.
 
-- **[Gode instruksjoner](instruksjoner.md).** KI gjør det du ber om, ikke det du mener. Litt struktur i spørsmålet gir mye bedre svar.
-- **[Kontroll før bruk](kontroll.md).** Det viktigste på hele nettstedet. Kode du ikke har kontrollert, er kode du ikke kan stå for.
+## Etter oppsettet
 
-Les også [Bevisst bruk](../bevisst-bruk/index.md) før du blir for vant til verktøyene. Det er lettere å legge gode vaner fra start enn å endre dem senere.
+Når verktøyet virker, er neste steg å gi det kontekst. Se [Tilpasning](../tilpasning/index.md).

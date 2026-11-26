@@ -1,0 +1,104 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1920" height="1080" viewBox="0 0 1920 1080">
+<rect x="0" y="0" width="1920" height="1080" fill="#ffffff"/>
+<text x="60" y="92" font-family="Roboto Condensed, Arial Narrow, Arial, sans-serif" font-size="46" font-weight="700" fill="#274247" text-anchor="start">Hvilke filer leser hvilket verktøy</text>
+<text x="60" y="136" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="24" font-weight="400" fill="#5e787a" text-anchor="start">Forslag til figur i guiden filer-agentene-leser. Spørsmålstegnene må fylles ut</text>
+<rect x="1760.6" y="64" width="99.39999999999999" height="34" rx="17" fill="#f2f0ff" stroke="#7e5ee8" stroke-width="1" stroke-dasharray="8 6"/>
+<text x="1810.3" y="87" font-family="Roboto, Arial, sans-serif" font-size="17" font-weight="700" fill="#4b2fb0" text-anchor="middle">FORSLAG</text>
+<rect x="1641.0" y="64" width="109.6" height="34" rx="17" fill="#ffffff" stroke="#274247" stroke-width="1"/>
+<text x="1695.8" y="87" font-family="Roboto, Arial, sans-serif" font-size="17" font-weight="700" fill="#274247" text-anchor="middle">Oversikt</text>
+<line x1="60" y1="160" x2="1860" y2="160" stroke="#c3dcdc" stroke-width="1"/>
+<rect x="1440" y="180" width="420" height="806" rx="2" fill="#f0f8f9" stroke="none" stroke-width="0"/>
+<rect x="1440" y="180" width="420" height="5" rx="0" fill="#00824d" stroke="none" stroke-width="0"/>
+<text x="1468" y="232" font-family="Roboto, Arial, sans-serif" font-size="22" font-weight="700" fill="#274247" text-anchor="start">Hva figuren skal vise</text>
+<circle cx="1484" cy="283" r="17" fill="#274247"/>
+<text x="1484" y="289" font-family="Roboto, Arial, sans-serif" font-size="17" font-weight="700" fill="#ffffff" text-anchor="middle">1</text>
+<text x="1514" y="290" font-family="Roboto, Arial, sans-serif" font-size="20" font-weight="700" fill="#274247" text-anchor="start">AGENTS.md først</text>
+<text x="1514" y="318" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="400" fill="#274247" text-anchor="start">Den felles filen. Skriv den</text>
+<text x="1514" y="342" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="400" fill="#274247" text-anchor="start">først, så får verktøyene</text>
+<text x="1514" y="366" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="400" fill="#274247" text-anchor="start">samme grunnkontekst.</text>
+<circle cx="1484" cy="409" r="17" fill="#274247"/>
+<text x="1484" y="415" font-family="Roboto, Arial, sans-serif" font-size="17" font-weight="700" fill="#ffffff" text-anchor="middle">2</text>
+<text x="1514" y="416" font-family="Roboto, Arial, sans-serif" font-size="20" font-weight="700" fill="#274247" text-anchor="start">Resten varierer</text>
+<text x="1514" y="444" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="400" fill="#274247" text-anchor="start">Instruksjonsfiler, promptfiler</text>
+<text x="1514" y="468" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="400" fill="#274247" text-anchor="start">og skills virker fullt ut bare</text>
+<text x="1514" y="492" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="400" fill="#274247" text-anchor="start">i noen verktøy.</text>
+<circle cx="1484" cy="535" r="17" fill="#274247"/>
+<text x="1484" y="541" font-family="Roboto, Arial, sans-serif" font-size="17" font-weight="700" fill="#ffffff" text-anchor="middle">3</text>
+<text x="1514" y="542" font-family="Roboto, Arial, sans-serif" font-size="20" font-weight="700" fill="#274247" text-anchor="start">Review er et eget tilfelle</text>
+<text x="1514" y="570" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="400" fill="#274247" text-anchor="start">GitHub.com leser</text>
+<text x="1514" y="594" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="400" fill="#274247" text-anchor="start">copilot-instructions.md</text>
+<text x="1514" y="618" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="400" fill="#274247" text-anchor="start">ved code review.</text>
+<circle cx="1484" cy="661" r="17" fill="#274247"/>
+<text x="1484" y="667" font-family="Roboto, Arial, sans-serif" font-size="17" font-weight="700" fill="#ffffff" text-anchor="middle">4</text>
+<text x="1514" y="668" font-family="Roboto, Arial, sans-serif" font-size="20" font-weight="700" fill="#274247" text-anchor="start">Fyll ut spørsmålstegnene</text>
+<text x="1514" y="696" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="400" fill="#274247" text-anchor="start">Figuren bygger bare på</text>
+<text x="1514" y="720" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="400" fill="#274247" text-anchor="start">verktoy.json. Resten må</text>
+<text x="1514" y="744" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="400" fill="#274247" text-anchor="start">hentes fra guiden.</text>
+<rect x="60" y="1027" width="26" height="22" rx="2" fill="#ecfeed" stroke="#00824d" stroke-width="1"/>
+<text x="96" y="1046" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="15" font-weight="400" fill="#274247" text-anchor="start">Leser</text>
+<rect x="172.0" y="1027" width="26" height="22" rx="2" fill="#ffffff" stroke="#00824d" stroke-width="1"/>
+<text x="208.0" y="1046" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="15" font-weight="400" fill="#274247" text-anchor="start">Delvis</text>
+<rect x="292.4" y="1027" width="26" height="22" rx="2" fill="#ffffff" stroke="#b9c5c6" stroke-width="1" stroke-dasharray="6 5"/>
+<text x="328.4" y="1046" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="15" font-weight="400" fill="#274247" text-anchor="start">Ukjent, fylles ut</text>
+<text x="1860" y="1046" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="15" font-weight="400" fill="#5e787a" text-anchor="end">Kilde: verktoy.json i ki-praksis, 11.11.2026 · Versjon 2.1, skisse til diskusjon · KI-gruppen, avdeling 700</text>
+<rect x="306" y="196" width="258" height="102" rx="2" fill="#ecfeed" stroke="#00824d" stroke-width="1"/>
+<text x="324" y="234" font-family="Roboto, Arial, sans-serif" font-size="20" font-weight="700" fill="#00824d" text-anchor="start">AGENTS.md</text>
+<text x="324" y="260" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="14" font-weight="400" fill="#274247" text-anchor="start">felles standard</text>
+<rect x="576" y="196" width="258" height="102" rx="2" fill="#ecfeed" stroke="#00824d" stroke-width="1"/>
+<text x="594" y="234" font-family="Roboto, Arial, sans-serif" font-size="20" font-weight="700" fill="#00824d" text-anchor="start">Instruksjonsfiler</text>
+<text x="594" y="260" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="14" font-weight="400" fill="#274247" text-anchor="start">copilot-instructions.md,</text>
+<text x="594" y="279" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="14" font-weight="400" fill="#274247" text-anchor="start">*.instructions.md</text>
+<rect x="846" y="196" width="258" height="102" rx="2" fill="#ecfeed" stroke="#00824d" stroke-width="1"/>
+<text x="864" y="234" font-family="Roboto, Arial, sans-serif" font-size="20" font-weight="700" fill="#00824d" text-anchor="start">Promptfiler</text>
+<text x="864" y="260" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="14" font-weight="400" fill="#274247" text-anchor="start">*.prompt.md</text>
+<rect x="1116" y="196" width="258" height="102" rx="2" fill="#ecfeed" stroke="#00824d" stroke-width="1"/>
+<text x="1134" y="234" font-family="Roboto, Arial, sans-serif" font-size="20" font-weight="700" fill="#00824d" text-anchor="start">Skills</text>
+<text x="1134" y="260" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="14" font-weight="400" fill="#274247" text-anchor="start">SKILL.md</text>
+<rect x="60" y="318" width="222" height="158" rx="2" fill="#f0f8f9" stroke="#274247" stroke-width="1"/>
+<text x="82" y="368" font-family="Roboto, Arial, sans-serif" font-size="21" font-weight="700" fill="#274247" text-anchor="start">VS Code</text>
+<text x="82" y="396" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="15" font-weight="400" fill="#5e787a" text-anchor="start">editor</text>
+<rect x="306" y="318" width="258" height="158" rx="2" fill="#ecfeed" stroke="#00824d" stroke-width="1"/>
+<text x="435.0" y="406.0" font-family="Roboto, Arial, sans-serif" font-size="24" font-weight="700" fill="#00824d" text-anchor="middle">Leser</text>
+<rect x="576" y="318" width="258" height="158" rx="2" fill="#ecfeed" stroke="#00824d" stroke-width="1"/>
+<text x="705.0" y="406.0" font-family="Roboto, Arial, sans-serif" font-size="24" font-weight="700" fill="#00824d" text-anchor="middle">Leser</text>
+<rect x="846" y="318" width="258" height="158" rx="2" fill="#ecfeed" stroke="#00824d" stroke-width="1"/>
+<text x="975.0" y="406.0" font-family="Roboto, Arial, sans-serif" font-size="24" font-weight="700" fill="#00824d" text-anchor="middle">Leser</text>
+<rect x="1116" y="318" width="258" height="158" rx="2" fill="#ecfeed" stroke="#00824d" stroke-width="1"/>
+<text x="1245.0" y="406.0" font-family="Roboto, Arial, sans-serif" font-size="24" font-weight="700" fill="#00824d" text-anchor="middle">Leser</text>
+<rect x="60" y="488" width="222" height="158" rx="2" fill="#f0f8f9" stroke="#274247" stroke-width="1"/>
+<text x="82" y="538" font-family="Roboto, Arial, sans-serif" font-size="21" font-weight="700" fill="#274247" text-anchor="start">OpenCode</text>
+<text x="82" y="566" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="15" font-weight="400" fill="#5e787a" text-anchor="start">terminal</text>
+<rect x="306" y="488" width="258" height="158" rx="2" fill="#ecfeed" stroke="#00824d" stroke-width="1"/>
+<text x="435.0" y="576.0" font-family="Roboto, Arial, sans-serif" font-size="24" font-weight="700" fill="#00824d" text-anchor="middle">Leser</text>
+<rect x="576" y="488" width="258" height="158" rx="2" fill="#ffffff" stroke="#b9c5c6" stroke-width="1" stroke-dasharray="6 5"/>
+<text x="705.0" y="576.0" font-family="Roboto, Arial, sans-serif" font-size="26" font-weight="700" fill="#5e787a" text-anchor="middle">?</text>
+<rect x="846" y="488" width="258" height="158" rx="2" fill="#ffffff" stroke="#b9c5c6" stroke-width="1" stroke-dasharray="6 5"/>
+<text x="975.0" y="576.0" font-family="Roboto, Arial, sans-serif" font-size="26" font-weight="700" fill="#5e787a" text-anchor="middle">?</text>
+<rect x="1116" y="488" width="258" height="158" rx="2" fill="#ffffff" stroke="#b9c5c6" stroke-width="1" stroke-dasharray="6 5"/>
+<text x="1245.0" y="576.0" font-family="Roboto, Arial, sans-serif" font-size="26" font-weight="700" fill="#5e787a" text-anchor="middle">?</text>
+<rect x="60" y="658" width="222" height="158" rx="2" fill="#f0f8f9" stroke="#274247" stroke-width="1"/>
+<text x="82" y="708" font-family="Roboto, Arial, sans-serif" font-size="21" font-weight="700" fill="#274247" text-anchor="start">Zed</text>
+<text x="82" y="736" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="15" font-weight="400" fill="#5e787a" text-anchor="start">editor</text>
+<rect x="306" y="658" width="258" height="158" rx="2" fill="#ffffff" stroke="#b9c5c6" stroke-width="1" stroke-dasharray="6 5"/>
+<text x="435.0" y="746.0" font-family="Roboto, Arial, sans-serif" font-size="26" font-weight="700" fill="#5e787a" text-anchor="middle">?</text>
+<rect x="576" y="658" width="258" height="158" rx="2" fill="#ffffff" stroke="#b9c5c6" stroke-width="1" stroke-dasharray="6 5"/>
+<text x="705.0" y="746.0" font-family="Roboto, Arial, sans-serif" font-size="26" font-weight="700" fill="#5e787a" text-anchor="middle">?</text>
+<rect x="846" y="658" width="258" height="158" rx="2" fill="#ffffff" stroke="#b9c5c6" stroke-width="1" stroke-dasharray="6 5"/>
+<text x="975.0" y="746.0" font-family="Roboto, Arial, sans-serif" font-size="26" font-weight="700" fill="#5e787a" text-anchor="middle">?</text>
+<rect x="1116" y="658" width="258" height="158" rx="2" fill="#ffffff" stroke="#b9c5c6" stroke-width="1" stroke-dasharray="6 5"/>
+<text x="1245.0" y="746.0" font-family="Roboto, Arial, sans-serif" font-size="26" font-weight="700" fill="#5e787a" text-anchor="middle">?</text>
+<rect x="60" y="828" width="222" height="158" rx="2" fill="#f0f8f9" stroke="#274247" stroke-width="1"/>
+<text x="82" y="878" font-family="Roboto, Arial, sans-serif" font-size="21" font-weight="700" fill="#274247" text-anchor="start">GitHub.com</text>
+<text x="82" y="906" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="15" font-weight="400" fill="#5e787a" text-anchor="start">web</text>
+<rect x="306" y="828" width="258" height="158" rx="2" fill="#ffffff" stroke="#b9c5c6" stroke-width="1" stroke-dasharray="6 5"/>
+<text x="435.0" y="916.0" font-family="Roboto, Arial, sans-serif" font-size="26" font-weight="700" fill="#5e787a" text-anchor="middle">?</text>
+<rect x="576" y="828" width="258" height="158" rx="2" fill="#ffffff" stroke="#00824d" stroke-width="1"/>
+<rect x="576" y="828" width="5" height="158" rx="0" fill="#00824d" stroke="none" stroke-width="0"/>
+<text x="705.0" y="897.0" font-family="Roboto, Arial, sans-serif" font-size="24" font-weight="700" fill="#00824d" text-anchor="middle">Delvis</text>
+<text x="705.0" y="927.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="14" font-weight="400" fill="#274247" text-anchor="middle">copilot-instructions.md</text>
+<text x="705.0" y="947.0" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="14" font-weight="400" fill="#274247" text-anchor="middle">ved code review</text>
+<rect x="846" y="828" width="258" height="158" rx="2" fill="#ffffff" stroke="#b9c5c6" stroke-width="1" stroke-dasharray="6 5"/>
+<text x="975.0" y="916.0" font-family="Roboto, Arial, sans-serif" font-size="26" font-weight="700" fill="#5e787a" text-anchor="middle">?</text>
+<rect x="1116" y="828" width="258" height="158" rx="2" fill="#ffffff" stroke="#b9c5c6" stroke-width="1" stroke-dasharray="6 5"/>
+<text x="1245.0" y="916.0" font-family="Roboto, Arial, sans-serif" font-size="26" font-weight="700" fill="#5e787a" text-anchor="middle">?</text>
+</svg>

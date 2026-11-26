@@ -70,6 +70,10 @@
 }
 .md-typeset .status.forslag { color: #4b2fb0; border-color: #7e5ee8; border-style: dashed; background: #f2f0ff; }
 .md-typeset .status.avklares { color: #5e787a; border-color: #b9c5c6; border-style: dashed; background: #f3f5f5; }
+.md-typeset .status.kp { color: #274247; border-color: #274247; background: #f0f8f9; }
+.md-typeset .status.endres { color: #4b2fb0; border-color: #7e5ee8; background: #ffffff; }
+.md-typeset .status.nytt { color: #4b2fb0; border-color: #7e5ee8; border-style: dashed; background: #f2f0ff; }
+.md-typeset .status.venter { color: #5e787a; border-color: #b9c5c6; border-style: dashed; background: #f3f5f5; }
 .md-typeset .status.finnes { color: #00824d; border-color: #00824d; background: #ecfeed; }
 
 /* Inngangskort på forsiden */

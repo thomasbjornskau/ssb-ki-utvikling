@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1920" height="1080" viewBox="0 0 1920 1080">
 <rect x="0" y="0" width="1920" height="1080" fill="#ffffff"/>
 <text x="60" y="92" font-family="Roboto Condensed, Arial Narrow, Arial, sans-serif" font-size="46" font-weight="700" fill="#274247" text-anchor="start">Fra eget oppsett til felles verktøy</text>
-<text x="60" y="136" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="24" font-weight="400" fill="#5e787a" text-anchor="start">Tilpasninger modnes hos den enkelte og i teamet før de deles i hele SSB</text>
+<text x="60" y="136" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="24" font-weight="400" fill="#5e787a" text-anchor="start">Tilpasninger modnes hos den enkelte og i teamet før de havner i github-copilot</text>
 <rect x="1760.6" y="64" width="99.39999999999999" height="34" rx="17" fill="#f2f0ff" stroke="#7e5ee8" stroke-width="1" stroke-dasharray="8 6"/>
 <text x="1810.3" y="87" font-family="Roboto, Arial, sans-serif" font-size="17" font-weight="700" fill="#4b2fb0" text-anchor="middle">FORSLAG</text>
 <rect x="1641.0" y="64" width="109.6" height="34" rx="17" fill="#ffffff" stroke="#274247" stroke-width="1"/>
@@ -23,9 +23,9 @@
 <circle cx="1484" cy="487" r="17" fill="#274247"/>
 <text x="1484" y="493" font-family="Roboto, Arial, sans-serif" font-size="17" font-weight="700" fill="#ffffff" text-anchor="middle">3</text>
 <text x="1514" y="494" font-family="Roboto, Arial, sans-serif" font-size="20" font-weight="700" fill="#274247" text-anchor="start">Gjennom porten</text>
-<text x="1514" y="522" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="400" fill="#274247" text-anchor="start">KI-gruppen sjekker: ingen data,</text>
-<text x="1514" y="546" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="400" fill="#274247" text-anchor="start">ingen hemmeligheter, en eier,</text>
-<text x="1514" y="570" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="400" fill="#274247" text-anchor="start">i tråd med retningslinjene.</text>
+<text x="1514" y="522" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="400" fill="#274247" text-anchor="start">Ingen data, ingen hemmeligheter,</text>
+<text x="1514" y="546" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="400" fill="#274247" text-anchor="start">en eier, i tråd med reglene.</text>
+<text x="1514" y="570" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="400" fill="#274247" text-anchor="start">Hvem som sier ja, er uavklart.</text>
 <circle cx="1484" cy="613" r="17" fill="#274247"/>
 <text x="1484" y="619" font-family="Roboto, Arial, sans-serif" font-size="17" font-weight="700" fill="#ffffff" text-anchor="middle">4</text>
 <text x="1514" y="620" font-family="Roboto, Arial, sans-serif" font-size="20" font-weight="700" fill="#274247" text-anchor="start">Status synes</text>
@@ -42,7 +42,7 @@
 <polyline points="600.4,1039.0 622.4,1039.0" fill="none" stroke="#274247" stroke-width="2" stroke-linejoin="round"/>
 <polygon points="634.4,1039.0 618.4,1046.5 618.4,1031.5" fill="#274247"/>
 <text x="644.4000000000001" y="1046" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="15" font-weight="400" fill="#274247" text-anchor="start">Modning</text>
-<text x="1860" y="1046" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="15" font-weight="400" fill="#5e787a" text-anchor="end">25.11.2026 · Skisse til diskusjon · KI-gruppen, avdeling 700</text>
+<text x="1860" y="1046" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="15" font-weight="400" fill="#5e787a" text-anchor="end">26.11.2026 · Versjon 2.1, skisse til diskusjon · KI-gruppen, avdeling 700</text>
 <rect x="60" y="196" width="360" height="770" rx="2" fill="#f0f8f9" stroke="#274247" stroke-width="1"/>
 <text x="84" y="240" font-family="Roboto, Arial, sans-serif" font-size="24" font-weight="700" fill="#274247" text-anchor="start">Personlig</text>
 <text x="84" y="270" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#5e787a" text-anchor="start">din egen maskin og dine repoer</text>
@@ -72,8 +72,8 @@
 <rect x="494" y="734" width="76.19999999999999" height="27" rx="13.5" fill="#f2f0ff" stroke="#7e5ee8" stroke-width="1"/>
 <text x="532.1" y="752.9" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="15" font-weight="600" fill="#4b2fb0" text-anchor="middle">teamet</text>
 <rect x="1000" y="196" width="380" height="770" rx="2" fill="#f0f8f9" stroke="#274247" stroke-width="1"/>
-<text x="1024" y="240" font-family="Roboto, Arial, sans-serif" font-size="24" font-weight="700" fill="#274247" text-anchor="start">Felles katalog</text>
-<text x="1024" y="270" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#5e787a" text-anchor="start">hele SSB, med eier og status</text>
+<text x="1024" y="240" font-family="Roboto, Arial, sans-serif" font-size="24" font-weight="700" fill="#274247" text-anchor="start">github-copilot</text>
+<text x="1024" y="270" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#5e787a" text-anchor="start">felles for SSB, vist i ki-praksis</text>
 <rect x="1024" y="310" width="332" height="72" rx="2" fill="#ecfeed" stroke="#00824d" stroke-width="1"/>
 <text x="1046" y="354" font-family="Roboto, Arial, sans-serif" font-size="18" font-weight="700" fill="#274247" text-anchor="start">Instruksjon</text>
 <rect x="1024" y="406" width="332" height="72" rx="2" fill="#ecfeed" stroke="#00824d" stroke-width="1"/>
@@ -105,7 +105,7 @@
 <polygon points="866.0,560.0 850.0,567.5 850.0,552.5" fill="#274247"/>
 <polyline points="962.0,560.0 984.0,560.0" fill="none" stroke="#274247" stroke-width="2" stroke-linejoin="round"/>
 <polygon points="996.0,560.0 980.0,567.5 980.0,552.5" fill="#274247"/>
-<text x="1024" y="800" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="15" font-weight="400" fill="#5e787a" text-anchor="start">Status</text>
+<text x="1024" y="800" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="15" font-weight="400" fill="#5e787a" text-anchor="start">Status (forslag)</text>
 <rect x="1024" y="814" width="137.1" height="27" rx="13.5" fill="#f0f8f9" stroke="#274247" stroke-width="1"/>
 <text x="1092.55" y="832.9" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="15" font-weight="600" fill="#274247" text-anchor="middle">Til utprøving</text>
 <polyline points="1165.1,828.0 1177.1,828.0" fill="none" stroke="#274247" stroke-width="2" stroke-linejoin="round"/>

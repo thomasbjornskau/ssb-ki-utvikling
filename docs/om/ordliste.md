@@ -24,4 +24,4 @@
 
 **Skill.** En pakke med fremgangsmåte og eksempler for én type oppgave, som KI henter fram ved behov.
 
-**Taushetsbelagte data.** Opplysninger SSB har plikt til å beskytte, blant annet mikrodata og upubliserte tall. Se [Data og taushetsplikt](../retningslinjer/data.md).
+**Taushetsbelagte data.** Opplysninger SSB har plikt til å beskytte, blant annet mikrodata og upubliserte tall. Se [Data og taushetsplikt](../regler/data.md).

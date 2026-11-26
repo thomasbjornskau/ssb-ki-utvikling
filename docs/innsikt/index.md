@@ -1,5 +1,7 @@
 # Innsikt
 
+<span class="status nytt">Nytt</span> Kan komme senere. Endringsloggen under Regler er den delen som kan lages først.
+
 <p class="ingress">Vi vet lite om hvordan KI faktisk brukes i SSB. Ikke hvor mange som bruker det, ikke til hva, ikke hva det koster, og ikke om det hjelper. Denne delen skal gjøre det synlig, så både reglene og veiledningen kan bygge på erfaring og ikke bare antakelser.</p>
 
 <figure class="figur" id="figur-5" markdown="span">

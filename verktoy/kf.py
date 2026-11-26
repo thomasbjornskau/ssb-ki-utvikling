@@ -79,6 +79,8 @@ class Fig:
             "forslag": (C["l1"], C["l3"], C["lt"], FORSLAG),
             "risiko": (C["hvit"], C["rod"], C["rod"], None),
             "mork": (C["m5"], C["m5"], C["hvit"], None),
+            "endres": (C["hvit"], C["l3"], C["lt"], None),
+            "kp": (C["m1"], C["m5"], C["m5"], None),
         }[typ]
         hh = size + 12
         self.rect(x, y, w, hh, fi, st, 1, hh / 2, da)
@@ -133,6 +135,7 @@ def tegn(f, x, y, typ, tekst):
             "forslag": (C["l1"], C["l3"], FORSLAG), "utenfor": (C["ufyll"], C["ustrek"], None),
             "risiko": (C["hvit"], C["rod"], None), "mork": (C["m5"], C["m5"], None),
             "vilkar": (C["hvit"], C["g4"], None), "nei": (C["ufyll"], C["ustrek"], None),
+            "endres": (C["hvit"], C["l3"], None), "kp": (C["m1"], C["m5"], None),
         }[typ]
         f.rect(x, y - 19, 26, 22, sty[0], sty[1], 1, 2, sty[2])
         x2 = x + 36

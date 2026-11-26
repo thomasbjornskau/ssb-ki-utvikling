@@ -1,0 +1,146 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1920" height="1080" viewBox="0 0 1920 1080">
+<rect x="0" y="0" width="1920" height="1080" fill="#ffffff"/>
+<text x="60" y="92" font-family="Roboto Condensed, Arial Narrow, Arial, sans-serif" font-size="46" font-weight="700" fill="#274247" text-anchor="start">Samlet struktur for ki-praksis</text>
+<text x="60" y="136" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="24" font-weight="400" fill="#5e787a" text-anchor="start">Guidene fra ki-praksis i rammen fra ssb-ki-utvikling: ni områder i én portal</text>
+<rect x="1760.6" y="64" width="99.39999999999999" height="34" rx="17" fill="#f2f0ff" stroke="#7e5ee8" stroke-width="1" stroke-dasharray="8 6"/>
+<text x="1810.3" y="87" font-family="Roboto, Arial, sans-serif" font-size="17" font-weight="700" fill="#4b2fb0" text-anchor="middle">FORSLAG</text>
+<rect x="1641.0" y="64" width="109.6" height="34" rx="17" fill="#ffffff" stroke="#274247" stroke-width="1"/>
+<text x="1695.8" y="87" font-family="Roboto, Arial, sans-serif" font-size="17" font-weight="700" fill="#274247" text-anchor="middle">Oversikt</text>
+<line x1="60" y1="160" x2="1860" y2="160" stroke="#c3dcdc" stroke-width="1"/>
+<rect x="1440" y="180" width="420" height="806" rx="2" fill="#f0f8f9" stroke="none" stroke-width="0"/>
+<rect x="1440" y="180" width="420" height="5" rx="0" fill="#00824d" stroke="none" stroke-width="0"/>
+<text x="1468" y="232" font-family="Roboto, Arial, sans-serif" font-size="22" font-weight="700" fill="#274247" text-anchor="start">Slik leser du figuren</text>
+<circle cx="1484" cy="283" r="17" fill="#274247"/>
+<text x="1484" y="289" font-family="Roboto, Arial, sans-serif" font-size="17" font-weight="700" fill="#ffffff" text-anchor="middle">1</text>
+<text x="1514" y="290" font-family="Roboto, Arial, sans-serif" font-size="20" font-weight="700" fill="#274247" text-anchor="start">Guidene er de samme</text>
+<text x="1514" y="318" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="400" fill="#274247" text-anchor="start">20 av 24 guider flyttes inn</text>
+<text x="1514" y="342" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="400" fill="#274247" text-anchor="start">som de er. Ingen fjernes</text>
+<text x="1514" y="366" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="400" fill="#274247" text-anchor="start">eller skrives om.</text>
+<circle cx="1484" cy="409" r="17" fill="#274247"/>
+<text x="1484" y="415" font-family="Roboto, Arial, sans-serif" font-size="17" font-weight="700" fill="#ffffff" text-anchor="middle">2</text>
+<text x="1514" y="416" font-family="Roboto, Arial, sans-serif" font-size="20" font-weight="700" fill="#274247" text-anchor="start">Fire guider får tillegg</text>
+<text x="1514" y="444" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="400" fill="#274247" text-anchor="start">Regler, data, filene agentene</text>
+<text x="1514" y="468" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="400" fill="#274247" text-anchor="start">leser og styrker og</text>
+<text x="1514" y="492" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="400" fill="#274247" text-anchor="start">begrensninger.</text>
+<circle cx="1484" cy="535" r="17" fill="#274247"/>
+<text x="1484" y="541" font-family="Roboto, Arial, sans-serif" font-size="17" font-weight="700" fill="#ffffff" text-anchor="middle">3</text>
+<text x="1514" y="542" font-family="Roboto, Arial, sans-serif" font-size="20" font-weight="700" fill="#274247" text-anchor="start">Rammen er ny</text>
+<text x="1514" y="570" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="400" fill="#274247" text-anchor="start">Forside med innganger, områder</text>
+<text x="1514" y="594" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="400" fill="#274247" text-anchor="start">med ingress og figur, og fire</text>
+<text x="1514" y="618" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="400" fill="#274247" text-anchor="start">nye områder.</text>
+<circle cx="1484" cy="661" r="17" fill="#274247"/>
+<text x="1484" y="667" font-family="Roboto, Arial, sans-serif" font-size="17" font-weight="700" fill="#ffffff" text-anchor="middle">4</text>
+<text x="1514" y="668" font-family="Roboto, Arial, sans-serif" font-size="20" font-weight="700" fill="#274247" text-anchor="start">Statistikere venter</text>
+<text x="1514" y="696" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="400" fill="#274247" text-anchor="start">Plassen er reservert, så det</text>
+<text x="1514" y="720" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="400" fill="#274247" text-anchor="start">synes at inngangen kommer.</text>
+<rect x="60" y="1027" width="26" height="22" rx="2" fill="#f0f8f9" stroke="#274247" stroke-width="1"/>
+<text x="96" y="1046" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="15" font-weight="400" fill="#274247" text-anchor="start">Fra ki-praksis</text>
+<rect x="247.60000000000002" y="1027" width="26" height="22" rx="2" fill="#ffffff" stroke="#7e5ee8" stroke-width="1"/>
+<text x="283.6" y="1046" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="15" font-weight="400" fill="#274247" text-anchor="start">Endres</text>
+<rect x="368.0" y="1027" width="26" height="22" rx="2" fill="#f2f0ff" stroke="#7e5ee8" stroke-width="1" stroke-dasharray="8 6"/>
+<text x="404.0" y="1046" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="15" font-weight="400" fill="#274247" text-anchor="start">Nytt</text>
+<rect x="471.6" y="1027" width="26" height="22" rx="2" fill="#ffffff" stroke="#b9c5c6" stroke-width="1" stroke-dasharray="6 5"/>
+<text x="507.6" y="1046" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="15" font-weight="400" fill="#274247" text-anchor="start">Venter</text>
+<text x="1860" y="1046" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="15" font-weight="400" fill="#5e787a" text-anchor="end">26.11.2026 · Versjon 2.1, skisse til diskusjon · KI-gruppen, avdeling 700</text>
+<rect x="60" y="196" width="1340" height="84" rx="2" fill="#ffffff" stroke="#7e5ee8" stroke-width="1"/>
+<text x="84" y="234" font-family="Roboto, Arial, sans-serif" font-size="22" font-weight="700" fill="#4b2fb0" text-anchor="start">Start</text>
+<text x="84" y="262" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#274247" text-anchor="start">Forside: hvem er du, hovedregelen, hvor bør du begynne</text>
+<rect x="1240" y="222" width="72.72" height="26" rx="13.0" fill="#ffffff" stroke="#7e5ee8" stroke-width="1"/>
+<text x="1276.36" y="240.04" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="14" font-weight="600" fill="#4b2fb0" text-anchor="middle">Endres</text>
+<rect x="60" y="300" width="320" height="370" rx="2" fill="#f0f8f9" stroke="#274247" stroke-width="1"/>
+<text x="80" y="338" font-family="Roboto, Arial, sans-serif" font-size="21" font-weight="700" fill="#274247" text-anchor="start">Regler</text>
+<text x="80" y="362" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="14" font-weight="400" fill="#5e787a" text-anchor="start">regler</text>
+<rect x="80" y="380" width="170.16" height="26" rx="13.0" fill="#ffffff" stroke="#7e5ee8" stroke-width="1"/>
+<text x="165.07999999999998" y="398.04" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="14" font-weight="600" fill="#4b2fb0" text-anchor="middle">regler-for-ki-bruk</text>
+<rect x="80" y="418" width="170.16" height="26" rx="13.0" fill="#ffffff" stroke="#7e5ee8" stroke-width="1"/>
+<text x="165.07999999999998" y="436.04" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="14" font-weight="600" fill="#4b2fb0" text-anchor="middle">data-og-personvern</text>
+<rect x="80" y="456" width="137.68" height="26" rx="13.0" fill="#f0f8f9" stroke="#274247" stroke-width="1"/>
+<text x="148.84" y="474.04" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="14" font-weight="600" fill="#274247" text-anchor="middle">beskytt-repoet</text>
+<rect x="80" y="494" width="88.96" height="26" rx="13.0" fill="#ffffff" stroke="#7e5ee8" stroke-width="1"/>
+<text x="124.47999999999999" y="512.04" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="14" font-weight="600" fill="#4b2fb0" text-anchor="middle">/verktoy</text>
+<rect x="80" y="532" width="97.08" height="26" rx="13.0" fill="#f0f8f9" stroke="#274247" stroke-width="1"/>
+<text x="128.54" y="550.04" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="14" font-weight="600" fill="#274247" text-anchor="middle">/modeller</text>
+<rect x="80" y="570" width="121.44" height="26" rx="13.0" fill="#f2f0ff" stroke="#7e5ee8" stroke-width="1" stroke-dasharray="8 6"/>
+<text x="140.72" y="588.04" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="14" font-weight="600" fill="#4b2fb0" text-anchor="middle">endringslogg</text>
+<rect x="400" y="300" width="320" height="370" rx="2" fill="#f0f8f9" stroke="#274247" stroke-width="1"/>
+<text x="420" y="338" font-family="Roboto, Arial, sans-serif" font-size="21" font-weight="700" fill="#274247" text-anchor="start">Kom i gang</text>
+<text x="420" y="362" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="14" font-weight="400" fill="#5e787a" text-anchor="start">start + verktoy</text>
+<rect x="420" y="380" width="105.19999999999999" height="26" rx="13.0" fill="#f0f8f9" stroke="#274247" stroke-width="1"/>
+<text x="472.6" y="398.04" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="14" font-weight="600" fill="#274247" text-anchor="middle">kom-i-gang</text>
+<rect x="420" y="418" width="145.8" height="26" rx="13.0" fill="#f0f8f9" stroke="#274247" stroke-width="1"/>
+<text x="492.9" y="436.04" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="14" font-weight="600" fill="#274247" text-anchor="middle">oppsett-vs-code</text>
+<rect x="420" y="456" width="153.92" height="26" rx="13.0" fill="#f0f8f9" stroke="#274247" stroke-width="1"/>
+<text x="496.96" y="474.04" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="14" font-weight="600" fill="#274247" text-anchor="middle">oppsett-opencode</text>
+<rect x="420" y="494" width="137.68" height="26" rx="13.0" fill="#f0f8f9" stroke="#274247" stroke-width="1"/>
+<text x="488.84000000000003" y="512.04" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="14" font-weight="600" fill="#274247" text-anchor="middle">andre-klienter</text>
+<rect x="420" y="532" width="113.32" height="26" rx="13.0" fill="#f0f8f9" stroke="#274247" stroke-width="1"/>
+<text x="476.65999999999997" y="550.04" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="14" font-weight="600" fill="#274247" text-anchor="middle">velg-modell</text>
+<rect x="420" y="570" width="137.68" height="26" rx="13.0" fill="#f0f8f9" stroke="#274247" stroke-width="1"/>
+<text x="488.84000000000003" y="588.04" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="14" font-weight="600" fill="#274247" text-anchor="middle">spar-kostnader</text>
+<rect x="740" y="300" width="320" height="370" rx="2" fill="#f0f8f9" stroke="#274247" stroke-width="1"/>
+<text x="760" y="338" font-family="Roboto, Arial, sans-serif" font-size="21" font-weight="700" fill="#274247" text-anchor="start">Tilpasning</text>
+<text x="760" y="362" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="14" font-weight="400" fill="#5e787a" text-anchor="start">oppsett</text>
+<rect x="760" y="380" width="186.39999999999998" height="26" rx="13.0" fill="#ffffff" stroke="#7e5ee8" stroke-width="1"/>
+<text x="853.2" y="398.04" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="14" font-weight="600" fill="#4b2fb0" text-anchor="middle">filer-agentene-leser</text>
+<rect x="760" y="418" width="145.8" height="26" rx="13.0" fill="#f0f8f9" stroke="#274247" stroke-width="1"/>
+<text x="832.9" y="436.04" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="14" font-weight="600" fill="#274247" text-anchor="middle">skriv-agents-md</text>
+<rect x="760" y="456" width="194.51999999999998" height="26" rx="13.0" fill="#f0f8f9" stroke="#274247" stroke-width="1"/>
+<text x="857.26" y="474.04" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="14" font-weight="600" fill="#274247" text-anchor="middle">lag-instruksjonsfiler</text>
+<rect x="760" y="494" width="145.8" height="26" rx="13.0" fill="#f0f8f9" stroke="#274247" stroke-width="1"/>
+<text x="832.9" y="512.04" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="14" font-weight="600" fill="#274247" text-anchor="middle">lag-promptfiler</text>
+<rect x="760" y="532" width="105.19999999999999" height="26" rx="13.0" fill="#f0f8f9" stroke="#274247" stroke-width="1"/>
+<text x="812.6" y="550.04" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="14" font-weight="600" fill="#274247" text-anchor="middle">lag-skills</text>
+<rect x="760" y="570" width="113.32" height="26" rx="13.0" fill="#f0f8f9" stroke="#274247" stroke-width="1"/>
+<text x="816.66" y="588.04" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="14" font-weight="600" fill="#274247" text-anchor="middle">lag-agenter</text>
+<rect x="760" y="608" width="145.8" height="26" rx="13.0" fill="#f0f8f9" stroke="#274247" stroke-width="1"/>
+<text x="832.9" y="626.04" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="14" font-weight="600" fill="#274247" text-anchor="middle">forbered-repoet</text>
+<rect x="1080" y="300" width="320" height="370" rx="2" fill="#f0f8f9" stroke="#274247" stroke-width="1"/>
+<text x="1100" y="338" font-family="Roboto, Arial, sans-serif" font-size="21" font-weight="700" fill="#274247" text-anchor="start">Praksis</text>
+<text x="1100" y="362" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="14" font-weight="400" fill="#5e787a" text-anchor="start">koding + kvalitet</text>
+<rect x="1100" y="380" width="194.51999999999998" height="26" rx="13.0" fill="#f0f8f9" stroke="#274247" stroke-width="1"/>
+<text x="1197.26" y="398.04" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="14" font-weight="600" fill="#274247" text-anchor="middle">skriv-presise-prompts</text>
+<rect x="1100" y="418" width="218.88" height="26" rx="13.0" fill="#f0f8f9" stroke="#274247" stroke-width="1"/>
+<text x="1209.44" y="436.04" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="14" font-weight="600" fill="#274247" text-anchor="middle">forsta-eksisterende-kode</text>
+<rect x="1100" y="456" width="145.8" height="26" rx="13.0" fill="#f0f8f9" stroke="#274247" stroke-width="1"/>
+<text x="1172.9" y="474.04" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="14" font-weight="600" fill="#274247" text-anchor="middle">store-endringer</text>
+<rect x="1100" y="494" width="105.19999999999999" height="26" rx="13.0" fill="#f0f8f9" stroke="#274247" stroke-width="1"/>
+<text x="1152.6" y="512.04" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="14" font-weight="600" fill="#274247" text-anchor="middle">feilsoking</text>
+<rect x="1100" y="532" width="162.04" height="26" rx="13.0" fill="#f0f8f9" stroke="#274247" stroke-width="1"/>
+<text x="1181.02" y="550.04" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="14" font-weight="600" fill="#274247" text-anchor="middle">verifiser-og-test</text>
+<rect x="1100" y="570" width="162.04" height="26" rx="13.0" fill="#f0f8f9" stroke="#274247" stroke-width="1"/>
+<text x="1181.02" y="588.04" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="14" font-weight="600" fill="#274247" text-anchor="middle">gjennomga-ki-kode</text>
+<rect x="1100" y="608" width="218.88" height="26" rx="13.0" fill="#ffffff" stroke="#7e5ee8" stroke-width="1"/>
+<text x="1209.44" y="626.04" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="14" font-weight="600" fill="#4b2fb0" text-anchor="middle">styrker-og-begrensninger</text>
+<rect x="60" y="690" width="320" height="276" rx="2" fill="#f2f0ff" stroke="#7e5ee8" stroke-width="1" stroke-dasharray="8 6"/>
+<text x="80" y="728" font-family="Roboto, Arial, sans-serif" font-size="21" font-weight="700" fill="#4b2fb0" text-anchor="start">Bevisst bruk</text>
+<text x="80" y="752" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="14" font-weight="400" fill="#5e787a" text-anchor="start">ny kategori</text>
+<rect x="80" y="770" width="162.04" height="26" rx="13.0" fill="#f2f0ff" stroke="#7e5ee8" stroke-width="1" stroke-dasharray="8 6"/>
+<text x="161.01999999999998" y="788.04" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="14" font-weight="600" fill="#4b2fb0" text-anchor="middle">grønn og rød sone</text>
+<rect x="80" y="808" width="129.56" height="26" rx="13.0" fill="#f2f0ff" stroke="#7e5ee8" stroke-width="1" stroke-dasharray="8 6"/>
+<text x="144.78" y="826.04" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="14" font-weight="600" fill="#4b2fb0" text-anchor="middle">KI-kompetanse</text>
+<rect x="400" y="690" width="320" height="276" rx="2" fill="#ffffff" stroke="#b9c5c6" stroke-width="1" stroke-dasharray="6 5"/>
+<text x="420" y="728" font-family="Roboto, Arial, sans-serif" font-size="21" font-weight="700" fill="#5e787a" text-anchor="start">For statistikere</text>
+<text x="420" y="752" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="14" font-weight="400" fill="#5e787a" text-anchor="start">ny kategori</text>
+<rect x="420" y="770" width="145.8" height="26" rx="13.0" fill="#ffffff" stroke="#b9c5c6" stroke-width="1" stroke-dasharray="6 5"/>
+<text x="492.9" y="788.04" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="14" font-weight="600" fill="#5e787a" text-anchor="middle">inngang i Dapla</text>
+<rect x="420" y="808" width="129.56" height="26" rx="13.0" fill="#ffffff" stroke="#b9c5c6" stroke-width="1" stroke-dasharray="6 5"/>
+<text x="484.78" y="826.04" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="14" font-weight="600" fill="#5e787a" text-anchor="middle">utkast fra v1</text>
+<rect x="740" y="690" width="320" height="276" rx="2" fill="#f2f0ff" stroke="#7e5ee8" stroke-width="1" stroke-dasharray="8 6"/>
+<text x="760" y="728" font-family="Roboto, Arial, sans-serif" font-size="21" font-weight="700" fill="#4b2fb0" text-anchor="start">Nytt og innsikt</text>
+<text x="760" y="752" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="14" font-weight="400" fill="#5e787a" text-anchor="start">senere</text>
+<rect x="760" y="770" width="80.84" height="26" rx="13.0" fill="#f2f0ff" stroke="#7e5ee8" stroke-width="1" stroke-dasharray="8 6"/>
+<text x="800.42" y="788.04" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="14" font-weight="600" fill="#4b2fb0" text-anchor="middle">nyheter</text>
+<rect x="760" y="808" width="72.72" height="26" rx="13.0" fill="#f2f0ff" stroke="#7e5ee8" stroke-width="1" stroke-dasharray="8 6"/>
+<text x="796.36" y="826.04" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="14" font-weight="600" fill="#4b2fb0" text-anchor="middle">måling</text>
+<rect x="1080" y="690" width="320" height="276" rx="2" fill="#f2f0ff" stroke="#7e5ee8" stroke-width="1" stroke-dasharray="8 6"/>
+<text x="1100" y="728" font-family="Roboto, Arial, sans-serif" font-size="21" font-weight="700" fill="#4b2fb0" text-anchor="start">Om</text>
+<text x="1100" y="752" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="14" font-weight="400" fill="#5e787a" text-anchor="start">ny side</text>
+<rect x="1100" y="770" width="105.19999999999999" height="26" rx="13.0" fill="#f2f0ff" stroke="#7e5ee8" stroke-width="1" stroke-dasharray="8 6"/>
+<text x="1152.6" y="788.04" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="14" font-weight="600" fill="#4b2fb0" text-anchor="middle">KI-gruppen</text>
+<rect x="1100" y="808" width="137.68" height="26" rx="13.0" fill="#f2f0ff" stroke="#7e5ee8" stroke-width="1" stroke-dasharray="8 6"/>
+<text x="1168.84" y="826.04" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="14" font-weight="600" fill="#4b2fb0" text-anchor="middle">slik bidrar du</text>
+<rect x="1100" y="846" width="88.96" height="26" rx="13.0" fill="#f2f0ff" stroke="#7e5ee8" stroke-width="1" stroke-dasharray="8 6"/>
+<text x="1144.48" y="864.04" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="14" font-weight="600" fill="#4b2fb0" text-anchor="middle">ordliste</text>
+<rect x="1100" y="884" width="97.08" height="26" rx="13.0" fill="#f0f8f9" stroke="#274247" stroke-width="1"/>
+<text x="1148.54" y="902.04" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="14" font-weight="600" fill="#274247" text-anchor="middle">ressurser</text>
+</svg>

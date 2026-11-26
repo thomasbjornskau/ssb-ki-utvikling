@@ -1,5 +1,7 @@
 # Bevisst bruk
 
+<span class="status nytt">Nytt</span> Nytt område i ki-praksis, kategori `bevisst`. Guidene merkes som forslag fordi de ikke har en ADR som kilde.
+
 <p class="ingress">Det interessante spørsmålet er ikke om KI gjør oss raskere. Det er hva vi slutter å kunne når den gjør jobben for oss, og om det er noe vi har råd til å miste.</p>
 
 <figure class="figur" id="figur-3" markdown="span">
@@ -12,6 +14,10 @@
 Studier av utviklere som bruker KI peker i samme retning. De som delegerer blindt, forstår mindre av koden sin etterpå. De som stiller oppfølgingsspørsmål, forstår like mye eller mer. Og mange tror de jobber raskere med KI enn de faktisk gjør.[^1]
 
 For et statistikkbyrå er dette mer enn et spørsmål om effektivitet. Kvaliteten på statistikken hviler på at noen forstår hvordan tallene blir til. Hvis den forståelsen gradvis flyttes ut av hodene våre og inn i verktøyene, svekkes noe vi ikke ser før det er borte.
+
+## Forankring
+
+Området har ingen egen ADR, og guidene står derfor som forslag. Men to vedtak peker i samme retning. [ADR0038](https://github.com/statisticsnorway/adr/blob/main/docs/0038-bruk-av-agentiske-kodeverktøy-i-applikasjonsutvikling.md) nevner behov for opplæring i riktig bruk som en negativ konsekvens av å ta verktøyene i bruk. Og [ADR0035](https://github.com/statisticsnorway/adr/blob/main/docs/0035-retningslinjer-for-sikker-koding.md) krever at utvikleren skal vite hvilke kommandoer og hvilken kode som kjører. Bevisst bruk handler om å holde den kunnskapen ved like.
 
 ## To sider
 

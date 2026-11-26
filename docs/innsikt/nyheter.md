@@ -13,6 +13,6 @@
 
 **I verktøyene.** [Kort om nye modeller eller funksjoner som er relevante for SSB, med én setning om hva det betyr for oss.]
 
-**Spørsmålet vi fikk flest ganger.** «Kan jeg lime inn en feilmelding?» Svaret står nå på [Hva er lov, og hva er ikke lov](../retningslinjer/tillatt.md).
+**Spørsmålet vi fikk flest ganger.** «Kan jeg lime inn en feilmelding?» Svaret står nå på [Data og taushetsplikt](../regler/data.md).
 
 **Neste måned.** [Det gruppen arbeider med.]

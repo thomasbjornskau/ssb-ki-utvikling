@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1920" height="1080" viewBox="0 0 1920 1080">
 <rect x="0" y="0" width="1920" height="1080" fill="#ffffff"/>
 <text x="60" y="92" font-family="Roboto Condensed, Arial Narrow, Arial, sans-serif" font-size="46" font-weight="700" fill="#274247" text-anchor="start">To innganger, ett felles grunnlag</text>
-<text x="60" y="136" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="24" font-weight="400" fill="#5e787a" text-anchor="start">Utviklere og statistikere starter ulikt, men kontrollerer på samme måte før koden brukes</text>
+<text x="60" y="136" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="24" font-weight="400" fill="#5e787a" text-anchor="start">Utviklere følger guidene i ki-praksis. Statistikersporet venter, men ender i samme vane</text>
 <rect x="1760.6" y="64" width="99.39999999999999" height="34" rx="17" fill="#f2f0ff" stroke="#7e5ee8" stroke-width="1" stroke-dasharray="8 6"/>
 <text x="1810.3" y="87" font-family="Roboto, Arial, sans-serif" font-size="17" font-weight="700" fill="#4b2fb0" text-anchor="middle">FORSLAG</text>
 <rect x="1641.0" y="64" width="109.6" height="34" rx="17" fill="#ffffff" stroke="#274247" stroke-width="1"/>
@@ -12,35 +12,38 @@
 <text x="1468" y="232" font-family="Roboto, Arial, sans-serif" font-size="22" font-weight="700" fill="#274247" text-anchor="start">Hvorfor to innganger</text>
 <circle cx="1484" cy="283" r="17" fill="#274247"/>
 <text x="1484" y="289" font-family="Roboto, Arial, sans-serif" font-size="17" font-weight="700" fill="#ffffff" text-anchor="middle">1</text>
-<text x="1514" y="290" font-family="Roboto, Arial, sans-serif" font-size="20" font-weight="700" fill="#274247" text-anchor="start">Ulike startpunkter</text>
-<text x="1514" y="318" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="400" fill="#274247" text-anchor="start">Utviklere kjenner Git og review.</text>
-<text x="1514" y="342" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="400" fill="#274247" text-anchor="start">Det nye er agentene og grensene.</text>
-<circle cx="1484" cy="385" r="17" fill="#274247"/>
-<text x="1484" y="391" font-family="Roboto, Arial, sans-serif" font-size="17" font-weight="700" fill="#ffffff" text-anchor="middle">2</text>
-<text x="1514" y="392" font-family="Roboto, Arial, sans-serif" font-size="20" font-weight="700" fill="#274247" text-anchor="start">Statistikere sitter tett på data</text>
-<text x="1514" y="420" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="400" fill="#274247" text-anchor="start">I en notebook ligger kode og data</text>
-<text x="1514" y="444" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="400" fill="#274247" text-anchor="start">sammen. Derfor starter sporet</text>
-<text x="1514" y="468" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="400" fill="#274247" text-anchor="start">med regelen om å ikke vise data.</text>
-<circle cx="1484" cy="511" r="17" fill="#274247"/>
-<text x="1484" y="517" font-family="Roboto, Arial, sans-serif" font-size="17" font-weight="700" fill="#ffffff" text-anchor="middle">3</text>
-<text x="1514" y="518" font-family="Roboto, Arial, sans-serif" font-size="20" font-weight="700" fill="#274247" text-anchor="start">Samme vane til slutt</text>
-<text x="1514" y="546" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="400" fill="#274247" text-anchor="start">Begge spor ender i kontroll før</text>
-<text x="1514" y="570" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="400" fill="#274247" text-anchor="start">bruk: forstå, teste, sammenligne.</text>
-<circle cx="1484" cy="613" r="17" fill="#274247"/>
-<text x="1484" y="619" font-family="Roboto, Arial, sans-serif" font-size="17" font-weight="700" fill="#ffffff" text-anchor="middle">4</text>
-<text x="1514" y="620" font-family="Roboto, Arial, sans-serif" font-size="20" font-weight="700" fill="#274247" text-anchor="start">Reglene ligger under</text>
-<text x="1514" y="648" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="400" fill="#274247" text-anchor="start">Ingen av stegene kan gi mer</text>
-<text x="1514" y="672" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="400" fill="#274247" text-anchor="start">rom enn retningslinjene gir.</text>
+<text x="1514" y="290" font-family="Roboto, Arial, sans-serif" font-size="20" font-weight="700" fill="#274247" text-anchor="start">Utviklere: finnes</text>
+<text x="1514" y="318" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="400" fill="#274247" text-anchor="start">Guidene i ki-praksis dekker</text>
+<text x="1514" y="342" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="400" fill="#274247" text-anchor="start">veien fra tilgang til review.</text>
+<text x="1514" y="366" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="400" fill="#274247" text-anchor="start">ADR0038 gjelder her.</text>
+<circle cx="1484" cy="409" r="17" fill="#274247"/>
+<text x="1484" y="415" font-family="Roboto, Arial, sans-serif" font-size="17" font-weight="700" fill="#ffffff" text-anchor="middle">2</text>
+<text x="1514" y="416" font-family="Roboto, Arial, sans-serif" font-size="20" font-weight="700" fill="#274247" text-anchor="start">Statistikere: venter</text>
+<text x="1514" y="444" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="400" fill="#274247" text-anchor="start">I Dapla ligger kode og data</text>
+<text x="1514" y="468" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="400" fill="#274247" text-anchor="start">sammen. Sporet trenger egne</text>
+<text x="1514" y="492" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="400" fill="#274247" text-anchor="start">avklaringer og står på vent.</text>
+<circle cx="1484" cy="535" r="17" fill="#274247"/>
+<text x="1484" y="541" font-family="Roboto, Arial, sans-serif" font-size="17" font-weight="700" fill="#ffffff" text-anchor="middle">3</text>
+<text x="1514" y="542" font-family="Roboto, Arial, sans-serif" font-size="20" font-weight="700" fill="#274247" text-anchor="start">Samme vane til slutt</text>
+<text x="1514" y="570" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="400" fill="#274247" text-anchor="start">Begge spor ender i kontroll før</text>
+<text x="1514" y="594" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="400" fill="#274247" text-anchor="start">bruk: forstå, teste, sammenligne.</text>
+<circle cx="1484" cy="637" r="17" fill="#274247"/>
+<text x="1484" y="643" font-family="Roboto, Arial, sans-serif" font-size="17" font-weight="700" fill="#ffffff" text-anchor="middle">4</text>
+<text x="1514" y="644" font-family="Roboto, Arial, sans-serif" font-size="20" font-weight="700" fill="#274247" text-anchor="start">Reglene ligger under</text>
+<text x="1514" y="672" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="400" fill="#274247" text-anchor="start">Ingen av stegene kan gi mer</text>
+<text x="1514" y="696" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="400" fill="#274247" text-anchor="start">rom enn reglene gir.</text>
 <rect x="60" y="1027" width="26" height="22" rx="2" fill="#f2f0ff" stroke="#7e5ee8" stroke-width="1"/>
 <text x="96" y="1046" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="15" font-weight="400" fill="#274247" text-anchor="start">Hvem</text>
 <rect x="163.6" y="1027" width="26" height="22" rx="2" fill="#f0f8f9" stroke="#274247" stroke-width="1"/>
-<text x="199.6" y="1046" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="15" font-weight="400" fill="#274247" text-anchor="start">Steg</text>
-<rect x="267.2" y="1027" width="26" height="22" rx="2" fill="#ecfeed" stroke="#00824d" stroke-width="1"/>
-<text x="303.2" y="1046" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="15" font-weight="400" fill="#274247" text-anchor="start">Felles vane</text>
-<polyline points="429.6,1039.0 451.6,1039.0" fill="none" stroke="#274247" stroke-width="2" stroke-linejoin="round"/>
-<polygon points="463.6,1039.0 447.6,1046.5 447.6,1031.5" fill="#274247"/>
-<text x="473.6" y="1046" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="15" font-weight="400" fill="#274247" text-anchor="start">Rekkefølge</text>
-<text x="1860" y="1046" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="15" font-weight="400" fill="#5e787a" text-anchor="end">25.11.2026 · Skisse til diskusjon · KI-gruppen, avdeling 700</text>
+<text x="199.6" y="1046" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="15" font-weight="400" fill="#274247" text-anchor="start">Steg, med guide i ki-praksis</text>
+<rect x="468.8" y="1027" width="26" height="22" rx="2" fill="#ffffff" stroke="#b9c5c6" stroke-width="1" stroke-dasharray="6 5"/>
+<text x="504.8" y="1046" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="15" font-weight="400" fill="#274247" text-anchor="start">Venter</text>
+<rect x="589.2" y="1027" width="26" height="22" rx="2" fill="#ecfeed" stroke="#00824d" stroke-width="1"/>
+<text x="625.2" y="1046" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="15" font-weight="400" fill="#274247" text-anchor="start">Felles vane</text>
+<polyline points="751.6,1039.0 773.6,1039.0" fill="none" stroke="#274247" stroke-width="2" stroke-linejoin="round"/>
+<polygon points="785.6,1039.0 769.6,1046.5 769.6,1031.5" fill="#274247"/>
+<text x="795.6" y="1046" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="15" font-weight="400" fill="#274247" text-anchor="start">Rekkefølge</text>
+<text x="1860" y="1046" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="15" font-weight="400" fill="#5e787a" text-anchor="end">26.11.2026 · Versjon 2.1, skisse til diskusjon · KI-gruppen, avdeling 700</text>
 <rect x="80" y="196" width="600" height="92" rx="2" fill="#f2f0ff" stroke="#7e5ee8" stroke-width="1"/>
 <rect x="80" y="196" width="5" height="92" rx="0" fill="#7e5ee8" stroke="none" stroke-width="0"/>
 <text x="106" y="236" font-family="Roboto, Arial, sans-serif" font-size="22" font-weight="700" fill="#4b2fb0" text-anchor="start">Utvikler</text>
@@ -49,53 +52,53 @@
 <polygon points="380.0,316.0 372.5,300.0 387.5,300.0" fill="#274247"/>
 <rect x="120" y="318" width="520" height="76" rx="2" fill="#f0f8f9" stroke="#274247" stroke-width="1"/>
 <text x="150" y="364" font-family="Roboto, Arial, sans-serif" font-size="22" font-weight="700" fill="#5e787a" text-anchor="middle">1</text>
-<text x="176" y="352" font-family="Roboto, Arial, sans-serif" font-size="19" font-weight="700" fill="#274247" text-anchor="start">Skaff tilgang</text>
-<text x="176" y="378" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#5e787a" text-anchor="start">lisens og modeller</text>
+<text x="176" y="352" font-family="Roboto, Arial, sans-serif" font-size="19" font-weight="700" fill="#274247" text-anchor="start">Kom i gang</text>
+<text x="176" y="378" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#5e787a" text-anchor="start">kom-i-gang</text>
 <polyline points="380.0,394.0 380.0,408.0" fill="none" stroke="#274247" stroke-width="2" stroke-linejoin="round"/>
 <polygon points="380.0,420.0 372.5,404.0 387.5,404.0" fill="#274247"/>
 <rect x="120" y="422" width="520" height="76" rx="2" fill="#f0f8f9" stroke="#274247" stroke-width="1"/>
 <text x="150" y="468" font-family="Roboto, Arial, sans-serif" font-size="22" font-weight="700" fill="#5e787a" text-anchor="middle">2</text>
-<text x="176" y="456" font-family="Roboto, Arial, sans-serif" font-size="19" font-weight="700" fill="#274247" text-anchor="start">Instruksjoner i repoet</text>
-<text x="176" y="482" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#5e787a" text-anchor="start">gi agenten kontekst</text>
+<text x="176" y="456" font-family="Roboto, Arial, sans-serif" font-size="19" font-weight="700" fill="#274247" text-anchor="start">Sett opp verktøyet</text>
+<text x="176" y="482" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#5e787a" text-anchor="start">oppsett-vs-code, oppsett-opencode</text>
 <polyline points="380.0,498.0 380.0,512.0" fill="none" stroke="#274247" stroke-width="2" stroke-linejoin="round"/>
 <polygon points="380.0,524.0 372.5,508.0 387.5,508.0" fill="#274247"/>
 <rect x="120" y="526" width="520" height="76" rx="2" fill="#f0f8f9" stroke="#274247" stroke-width="1"/>
 <text x="150" y="572" font-family="Roboto, Arial, sans-serif" font-size="22" font-weight="700" fill="#5e787a" text-anchor="middle">3</text>
-<text x="176" y="560" font-family="Roboto, Arial, sans-serif" font-size="19" font-weight="700" fill="#274247" text-anchor="start">Agentmodus med grenser</text>
-<text x="176" y="586" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#5e787a" text-anchor="start">avgrenset, godkjenn kommandoer</text>
+<text x="176" y="560" font-family="Roboto, Arial, sans-serif" font-size="19" font-weight="700" fill="#274247" text-anchor="start">Gi agenten kontekst</text>
+<text x="176" y="586" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#5e787a" text-anchor="start">skriv-agents-md, forbered-repoet</text>
 <polyline points="380.0,602.0 380.0,616.0" fill="none" stroke="#274247" stroke-width="2" stroke-linejoin="round"/>
 <polygon points="380.0,628.0 372.5,612.0 387.5,612.0" fill="#274247"/>
 <rect x="120" y="630" width="520" height="76" rx="2" fill="#f0f8f9" stroke="#274247" stroke-width="1"/>
 <text x="150" y="676" font-family="Roboto, Arial, sans-serif" font-size="22" font-weight="700" fill="#5e787a" text-anchor="middle">4</text>
-<text x="176" y="664" font-family="Roboto, Arial, sans-serif" font-size="19" font-weight="700" fill="#274247" text-anchor="start">Plan før kode</text>
-<text x="176" y="690" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#5e787a" text-anchor="start">du eier arkitekturen</text>
+<text x="176" y="664" font-family="Roboto, Arial, sans-serif" font-size="19" font-weight="700" fill="#274247" text-anchor="start">Store endringer med plan</text>
+<text x="176" y="690" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#5e787a" text-anchor="start">store-endringer</text>
 <polyline points="380.0,706.0 380.0,730.0" fill="none" stroke="#274247" stroke-width="2" stroke-linejoin="round"/>
 <polygon points="380.0,742.0 372.5,726.0 387.5,726.0" fill="#274247"/>
-<rect x="740" y="196" width="600" height="92" rx="2" fill="#f2f0ff" stroke="#7e5ee8" stroke-width="1"/>
+<rect x="740" y="196" width="600" height="92" rx="2" fill="#f2f0ff" stroke="#7e5ee8" stroke-width="1" stroke-dasharray="8 6"/>
 <rect x="740" y="196" width="5" height="92" rx="0" fill="#7e5ee8" stroke="none" stroke-width="0"/>
 <text x="766" y="236" font-family="Roboto, Arial, sans-serif" font-size="22" font-weight="700" fill="#4b2fb0" text-anchor="start">Statistiker som koder</text>
-<text x="766" y="268" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#274247" text-anchor="start">Python eller R i Dapla</text>
+<text x="766" y="268" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#274247" text-anchor="start">Python eller R i Dapla · venter</text>
 <polyline points="1040.0,290.0 1040.0,304.0" fill="none" stroke="#274247" stroke-width="2" stroke-linejoin="round"/>
 <polygon points="1040.0,316.0 1032.5,300.0 1047.5,300.0" fill="#274247"/>
-<rect x="780" y="318" width="520" height="76" rx="2" fill="#f0f8f9" stroke="#274247" stroke-width="1"/>
+<rect x="780" y="318" width="520" height="76" rx="2" fill="#ffffff" stroke="#b9c5c6" stroke-width="1" stroke-dasharray="6 5"/>
 <text x="810" y="364" font-family="Roboto, Arial, sans-serif" font-size="22" font-weight="700" fill="#5e787a" text-anchor="middle">1</text>
 <text x="836" y="352" font-family="Roboto, Arial, sans-serif" font-size="19" font-weight="700" fill="#274247" text-anchor="start">Vis kode, ikke data</text>
 <text x="836" y="378" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#5e787a" text-anchor="start">struktur, ikke verdier</text>
 <polyline points="1040.0,394.0 1040.0,408.0" fill="none" stroke="#274247" stroke-width="2" stroke-linejoin="round"/>
 <polygon points="1040.0,420.0 1032.5,404.0 1047.5,404.0" fill="#274247"/>
-<rect x="780" y="422" width="520" height="76" rx="2" fill="#f0f8f9" stroke="#274247" stroke-width="1"/>
+<rect x="780" y="422" width="520" height="76" rx="2" fill="#ffffff" stroke="#b9c5c6" stroke-width="1" stroke-dasharray="6 5"/>
 <text x="810" y="468" font-family="Roboto, Arial, sans-serif" font-size="22" font-weight="700" fill="#5e787a" text-anchor="middle">2</text>
 <text x="836" y="456" font-family="Roboto, Arial, sans-serif" font-size="19" font-weight="700" fill="#274247" text-anchor="start">Forklar og oversett</text>
 <text x="836" y="482" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#5e787a" text-anchor="start">arvet kode, SAS til Python</text>
 <polyline points="1040.0,498.0 1040.0,512.0" fill="none" stroke="#274247" stroke-width="2" stroke-linejoin="round"/>
 <polygon points="1040.0,524.0 1032.5,508.0 1047.5,508.0" fill="#274247"/>
-<rect x="780" y="526" width="520" height="76" rx="2" fill="#f0f8f9" stroke="#274247" stroke-width="1"/>
+<rect x="780" y="526" width="520" height="76" rx="2" fill="#ffffff" stroke="#b9c5c6" stroke-width="1" stroke-dasharray="6 5"/>
 <text x="810" y="572" font-family="Roboto, Arial, sans-serif" font-size="22" font-weight="700" fill="#5e787a" text-anchor="middle">3</text>
 <text x="836" y="560" font-family="Roboto, Arial, sans-serif" font-size="19" font-weight="700" fill="#274247" text-anchor="start">Tester med syntetiske data</text>
 <text x="836" y="586" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#5e787a" text-anchor="start">så feil blir synlige</text>
 <polyline points="1040.0,602.0 1040.0,616.0" fill="none" stroke="#274247" stroke-width="2" stroke-linejoin="round"/>
 <polygon points="1040.0,628.0 1032.5,612.0 1047.5,612.0" fill="#274247"/>
-<rect x="780" y="630" width="520" height="76" rx="2" fill="#f0f8f9" stroke="#274247" stroke-width="1"/>
+<rect x="780" y="630" width="520" height="76" rx="2" fill="#ffffff" stroke="#b9c5c6" stroke-width="1" stroke-dasharray="6 5"/>
 <text x="810" y="676" font-family="Roboto, Arial, sans-serif" font-size="22" font-weight="700" fill="#5e787a" text-anchor="middle">4</text>
 <text x="836" y="664" font-family="Roboto, Arial, sans-serif" font-size="19" font-weight="700" fill="#274247" text-anchor="start">Faglige valg selv</text>
 <text x="836" y="690" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#5e787a" text-anchor="start">metode, plausibilitet, prikking</text>
@@ -104,8 +107,8 @@
 <rect x="80" y="752" width="1260" height="112" rx="2" fill="#ecfeed" stroke="#00824d" stroke-width="1"/>
 <rect x="80" y="752" width="1260" height="5" rx="0" fill="#00824d" stroke="none" stroke-width="0"/>
 <text x="110" y="798" font-family="Roboto, Arial, sans-serif" font-size="22" font-weight="700" fill="#00824d" text-anchor="start">Kontroll før bruk</text>
-<text x="110" y="832" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="400" fill="#274247" text-anchor="start">Forstå hver linje · test som ville feilet · sjekk at funksjonene finnes · sammenlign med fasit · review</text>
+<text x="110" y="832" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="400" fill="#274247" text-anchor="start">verifiser-og-test · gjennomga-ki-kode · forstå hver linje før du bruker den</text>
 <rect x="80" y="884" width="1260" height="82" rx="2" fill="#274247" stroke="none" stroke-width="0"/>
-<text x="110" y="934" font-family="Roboto, Arial, sans-serif" font-size="20" font-weight="700" fill="#ffffff" text-anchor="start">Retningslinjer</text>
-<text x="290" y="934" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="400" fill="#ffffff" text-anchor="start">Data og taushetsplikt · Ansvar · Agenter og isolasjon</text>
+<text x="110" y="934" font-family="Roboto, Arial, sans-serif" font-size="20" font-weight="700" fill="#ffffff" text-anchor="start">Regler</text>
+<text x="220" y="934" font-family="Open Sans, Segoe UI, Arial, sans-serif" font-size="17" font-weight="400" fill="#ffffff" text-anchor="start">regler-for-ki-bruk · data-og-personvern · beskytt-repoet · ADR0035, ADR0038</text>
 </svg>
